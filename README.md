@@ -1,4 +1,4 @@
-MOD_MYSQL_ACESSLOG.C for LightTPD up to version 1.4.35
+MOD_MYSQL_ACCESSLOG.C for LightTPD up to version 1.4.35
 ============
 
 This is the MOD_MYSQL_ACCESSLOG code that allows LIGHTTPD to write its logs to a DATABASE instead of disk files.
@@ -15,7 +15,7 @@ Prerequisites:
 1.SOURCE distribution of lighttpd. Here we used version, "1.4.35".
 http://download.lighttpd.net/lighttpd/releases-1.4.x/lighttpd-1.4.35.tar.gz
 
-2.And you need mariadb headers and mariadb database.
+2.And you need mariadb headers and mariadb database / or MYSQL etc.
 
 
 Procedure:
